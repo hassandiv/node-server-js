@@ -9,6 +9,7 @@ class Person {
     this.age = age;
   }
 
+  //this is a method or a normal js function
   greeting() {
     console.log(`My name is ${this.name} and I am a ${this.age} years old`);
   }
